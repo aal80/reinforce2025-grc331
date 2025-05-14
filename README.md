@@ -13,6 +13,8 @@ Building modern cloud applications with AWS enables teams to accelerate innovati
 * [[re:Invent 2023] Improve productivity by shifting more responsibility to developers](https://youtu.be/qlz15v-gHFI?si=lGUiyABVQbKVpTtx)
 * [[Guide] Implementing governance in depth for serverless applications](https://serverlessland.com/content/service/lambda/guides/governance/1-introduction)
 * [[Workshop] Implementing governance and compliance for modern applications](https://catalog.us-east-1.prod.workshops.aws/workshops/e3a294e9-6b6a-409e-9fdd-ba5a6f6f9f1d/en-US)
+* [[Blog] How CyberArk is streamlining serverless governance by codifying architectural blueprints](https://aws.amazon.com/blogs/architecture/how-cyberark-is-streamlining-serverless-governance-by-codifying-architectural-blueprints/)]
+* [[Case study] From 18 Weeks to 3 Hours: How CyberArk Delivers Business Value Faster Using Serverless Technology on AWS](https://aws.amazon.com/solutions/case-studies/cyberark-serverless-case-study/)]
 * [[What's new] Announcing 223 new AWS Config rules in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2025/04/new-aws-config-rules-control-tower/)
 * [[What's new] Introducing resource control policies](https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/)
 * [[What's new] AWS Control Tower launches managed controls using declarative policies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-control-tower-managed-controls-declarative-policies/)
